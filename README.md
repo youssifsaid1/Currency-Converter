@@ -35,5 +35,5 @@ This project simulates a **real-world frontend development workflow**, including
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/username/currency-converter.git
+   git clone https://github.com/youssifsaid1/Currency-Converter.git
    cd currency-converter
