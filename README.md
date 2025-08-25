@@ -5,10 +5,14 @@ This project simulates a real-world frontend development workflow, including API
 
 📸 Preview
 شاشة الترحيب بالمستخدم
+![وصف الصورة الأولى](images/image1.png)
 
 واجهة محول العملات مع الرسم البياني
+![وصف الصورة الثانية](images/image2.png)
 
 وضع الظلام لواجهة محول العملات
+![وصف الصورة الثالثة](images/image3.png)
+![وصف الصورة الثالثة](images/image4.png)
 
 🚀 Features
 Real-time Conversion 🔄: Convert amounts between different currencies in real time.
